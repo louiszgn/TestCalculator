@@ -1,0 +1,8 @@
+
+.idea
+*.iml
+
+node_modules
+
+# npm ci utilise ce fichier (commande utilisée pour Github Workflow)
+# package-lock.json
